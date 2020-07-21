@@ -12,3 +12,10 @@ def prime?(n)
   return true 
 end
 
+
+(range).to_a
+<=1 
+return false
+elsif = 2 false 
+if range.any? factor number % factor 
+
